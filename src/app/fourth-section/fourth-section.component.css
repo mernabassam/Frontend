@@ -1,0 +1,39 @@
+.margin-top-8
+{
+    margin-top: 8%;
+}
+.margin-top-7
+{
+    margin-top: 7%;
+}
+.w-20
+{
+    width: 20%;
+    height: 100%
+}
+.w-30
+{
+    width: 30%;
+}
+.margin-right-5
+{
+    margin-right: 200px;
+}
+.first-photo
+{
+    position: relative;
+    top: 40px;
+    right: 90px;
+}
+.second-photo
+{
+    position: relative;
+    top: 40px;
+    left: 80px;
+}
+.third-photo
+{
+    position: relative;
+    top: 40px;
+    left: 260px;
+}

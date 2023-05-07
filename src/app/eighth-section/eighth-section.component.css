@@ -1,0 +1,26 @@
+.margin-top-8
+{
+    margin-top: 8%;
+    padding-top: 5%;
+}
+.picture
+{
+    background-image: url("../../assets/imgs/shape-a.png");
+ 
+}
+.text-turqouise
+{
+    color: turquoise;
+}
+p
+{
+    max-width: 500px;
+}
+.container-2 p
+{
+    max-width: 320px;
+}
+.container-2 
+{
+    background-color: navy;
+}

@@ -1,0 +1,34 @@
+.margin-top-5
+{
+    margin-top: 5%;
+}
+
+.w-20
+{
+    width: 20%;
+}
+
+.navy
+{
+    background-color: navy;
+    background-image: url("../../assets/imgs/shape-a.png");
+}
+p
+{
+    margin-top: 5%;
+    max-width: 60%;
+}
+
+.facebook
+{
+    background-color: #4267B2;
+}
+.twitter
+{
+    background-color: #1da1f2;
+}
+.cont1
+{
+    width: 60%;
+    border-top: 3px solid whitesmoke ;
+}
